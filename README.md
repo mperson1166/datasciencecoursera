@@ -1,2 +1,2 @@
 # datasciencecoursera
-Coursera Data Sscience coursework
+Coursera Data Science coursework
